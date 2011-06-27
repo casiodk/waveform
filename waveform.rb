@@ -1,7 +1,7 @@
 require "rubygems"
 require "ruby-audio"
 require "fileutils"
-require "rmagick"
+require "RMagick"
 
 # TODO: set these with command line options
 # pixel width of final waveform image
